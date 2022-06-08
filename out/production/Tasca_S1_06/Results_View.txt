@@ -1,0 +1,30 @@
+
+
+
+*** N1 EXERCICI 1 - screenshot *************
+
+ Festival 1 : PrimaveraSound
+ Festival 2 : Cruïlla
+ Festival 3 : VidaFestival
+
+ Festival 1 : VidaFestival
+ Festival 2 : PrimaveraSound
+ Festival 3 : Cruïlla
+
+
+*** N1 EXERCICI 2 - screenshot ********
+
+Tipo       │ Valor                │ Nom. variable
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Double     │ 230.0                │ preu
+String     │ Primavera Sound      │ festival
+Persona    │ Rajoy                │ persona
+Integer    │ 652214478            │ telefono
+
+
+
+*** N2 EXERCICI 2 - screenshot ********
+
+[Rafa, Djokovic, Carlitos]
+[false, true]
+{Acelga=Anna, Berza=Helena, Melón=LLuis, Nabos=Pablo}
